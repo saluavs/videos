@@ -58,7 +58,7 @@ document.querySelectorAll(".btn").forEach((boton) => {
             url = "https://www.youtube.com/embed/7jMlFXouPk8";
         break;
         case 'peliculas':
-            url = "https://www.youtube.com/embed/PeHyaasLWPw";
+            url = "https://www.youtube.com/embed/oViDX2aW8KM";
         break;
         case 'series':
             url = "https://www.youtube.com/embed/jf9a2ADB8-0";
